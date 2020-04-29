@@ -134,4 +134,4 @@ namespace Pets
 }
 ```
 **Navigation**
-[Home](README.md) | [Code] hey you're _here!_ | [Studies](studies.md) | [Contact](contact.md)
+  [Home](README.md) | [Code] hey you're _here!_ | [Studies](studies.md) | [Contact](contact.md)
