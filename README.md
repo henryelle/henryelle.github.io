@@ -9,3 +9,6 @@ More information on my interests and studies can be read [here](studies.md).
 
 ### Where to find me
 My contact information can be found [here](contact.md).
+
+>I don't have an ego,
+>this site was created in order to complete a class project.
