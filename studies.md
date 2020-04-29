@@ -4,5 +4,5 @@
 
 ### I am very interested in foreign language in culture with plans to minor in Japanese.
 
-![Mizzou_Laffere](https://live.staticflickr.com/8790/16890371568_c5bcc96644_b.jpg)
+![Mizzou_Laffere](laffere.jpg)
 ![Kyoto](https://cdn.contexttravel.com/image/upload/c_fill,q_60,w_2600/v1553227874/production/city/hero_image_27_1553227874.jpg)
