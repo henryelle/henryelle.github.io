@@ -1,5 +1,5 @@
 ## Pets project
-[Home](https://henryelle.github.io/README.html) | [Code] hey you're _here!_ | [Studies](https://henryelle.github.io/studies.html) | [Contact](https://henryelle.github.io/contact.html)
+[Home](https://henryelle.github.io) | [Code] hey you're _here!_ | [Studies](https://henryelle.github.io/studies.html) | [Contact](https://henryelle.github.io/contact.html)
 
 This project was my first attempt at creating classes and objects using C#.
 
