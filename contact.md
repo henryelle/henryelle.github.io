@@ -3,4 +3,4 @@
 * My Twitter is [@henryellebracht](http://twitter.com/henryellebracht)
 
 **Navigation**  
-[Home](https://henryelle.github.io/README.html) | [Code](code.md)| [Studies](studies.md) | [Contact]_Hey, you're here!_
+[Home](https://henryelle.github.io/) | [Code](code.md)| [Studies](studies.md) | [Contact]_Hey, you're here!_
