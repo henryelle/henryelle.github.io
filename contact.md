@@ -3,4 +3,4 @@
 * My Twitter is [@henryellebracht](http://twitter.com/henryellebracht)
 
 **Navigation**  
-[Home](README.md) | [Code] hey you're _here!_ | [Studies](studies.md) | [Contact](contact.md)
+[Home](README.md) | [Code](code.md)| [Studies](studies.md) | [Contact]_Hey, you're here!_
