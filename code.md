@@ -1,4 +1,6 @@
 ## Pets project
+[Home](readme.md) | [Code] hey you're _here!_ | [Studies](studies.md) | [Contact](contact.md)
+
 This project was my first attempt at creating classes and objects using C#.
 
 Program.cs:
@@ -131,3 +133,5 @@ namespace Pets
     }
 }
 ```
+**Navigation**
+[Home](readme.md) | [Code] hey you're _here!_ | [Studies](studies.md) | [Contact](contact.md)
